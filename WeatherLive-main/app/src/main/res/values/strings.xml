@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="center_logo_desc">Center logo description</string>
+    <string name="bottom_logo_desc">Bottom logo description</string>
+</resources>
